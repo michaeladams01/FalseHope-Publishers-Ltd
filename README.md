@@ -1,2 +1,2 @@
-# FalseHope-Publishers-Ltd
-created a landing page for a book's companion website
+# FalseHope-Publishing
+Landing page for a fictional book's companion website
