@@ -1,2 +1,3 @@
-# FalseHope-Publishing
-Landing page for a fictional book's companion website
+# Flavour-Publishing
+Landing page for a publishing companion website
+commissioned by a friend
